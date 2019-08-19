@@ -1,0 +1,9 @@
+c:\users\liana\documents\visual studio 2013\Projects\HW_Epam_2\HW_Epam_2\bin\Debug\HW_Epam_2.exe.config
+c:\users\liana\documents\visual studio 2013\Projects\HW_Epam_2\HW_Epam_2\bin\Debug\HW_Epam_2.exe
+c:\users\liana\documents\visual studio 2013\Projects\HW_Epam_2\HW_Epam_2\bin\Debug\HW_Epam_2.pdb
+c:\users\liana\documents\visual studio 2013\Projects\HW_Epam_2\HW_Epam_2\obj\Debug\TAsk1.csprojResolveAssemblyReference.cache
+c:\users\liana\documents\visual studio 2013\Projects\HW_Epam_2\HW_Epam_2\obj\Debug\HW_Epam_2.exe
+c:\users\liana\documents\visual studio 2013\Projects\HW_Epam_2\HW_Epam_2\obj\Debug\HW_Epam_2.pdb
+C:\Users\Liana\Desktop\HW_Epam_2\HW_Epam_2\bin\Debug\HW_Epam_2.exe.config
+C:\Users\Liana\Desktop\HW_Epam_2\HW_Epam_2\obj\Debug\HW_Epam_2.exe
+C:\Users\Liana\Desktop\HW_Epam_2\HW_Epam_2\obj\Debug\HW_Epam_2.pdb
