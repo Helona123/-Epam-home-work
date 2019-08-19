@@ -1,0 +1,6 @@
+C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task5\bin\Debug\Task5.exe.config
+C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task5\bin\Debug\Task5.exe
+C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task5\bin\Debug\Task5.pdb
+C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task5\obj\Debug\Task5.exe
+C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task5\obj\Debug\Task5.pdb
