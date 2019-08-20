@@ -1,6 +1,0 @@
-C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
-C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task4\bin\Debug\Task4.exe.config
-C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task4\bin\Debug\Task4.exe
-C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task4\bin\Debug\Task4.pdb
-C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task4\obj\Debug\Task4.exe
-C:\Users\Liana\documents\visual studio 2013\Projects\HW_Epam_1\Task4\obj\Debug\Task4.pdb
