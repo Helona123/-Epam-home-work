@@ -1,0 +1,15 @@
+C:\Users\Liana\Documents\Visual Studio 2013\Projects\HW_Epam_3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Liana\Documents\Visual Studio 2013\Projects\HW_Epam_3\Task3\bin\Debug\Task3.exe
+C:\Users\Liana\Documents\Visual Studio 2013\Projects\HW_Epam_3\Task3\bin\Debug\Task3.pdb
+C:\Users\Liana\Documents\Visual Studio 2013\Projects\HW_Epam_3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Liana\Documents\Visual Studio 2013\Projects\HW_Epam_3\Task3\obj\Debug\Task3.exe
+C:\Users\Liana\Documents\Visual Studio 2013\Projects\HW_Epam_3\Task3\obj\Debug\Task3.pdb
+C:\Users\Liana\Desktop\HW_Epam_3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Liana\Desktop\HW_Epam_3\Task3\bin\Debug\Task3.exe
+C:\Users\Liana\Desktop\HW_Epam_3\Task3\bin\Debug\Task3.pdb
+C:\Users\Liana\Desktop\HW_Epam_3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\Liana\Desktop\HW_Epam_3\Task3\obj\Debug\Task3.exe
+C:\Users\Liana\Desktop\HW_Epam_3\Task3\obj\Debug\Task3.pdb
+D:\GitRepo\-Epam-home-work\HW_Epam_3\Task3\bin\Debug\Task3.exe.config
+D:\GitRepo\-Epam-home-work\HW_Epam_3\Task3\obj\Debug\Task3.exe
+D:\GitRepo\-Epam-home-work\HW_Epam_3\Task3\obj\Debug\Task3.pdb
